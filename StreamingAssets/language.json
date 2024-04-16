@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "maxChars": {
+      "totalScoreText": 30,
+      "obtainedScoreText": 30
+    }
+  },
+  "en": {
+    "totalScoreText": "Total Score",
+    "obtainedScoreText": "Obtained Score:"
+  },
+  "es": {
+    "totalScoreText": "Puntaje Total:",
+    "obtainedScoreText": "Puntaje Obtenido"
+  }
+}
